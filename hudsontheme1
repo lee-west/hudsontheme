@@ -1,0 +1,195 @@
+<!doctype html>
+<html>
+<head>
+    <title>Nick + Erica Lee</title>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+   	
+   	<style type="text/css">
+   		
+   		body{margin:0;
+   		}
+   		
+   		a {text-decoration:none; 
+   		}
+   		
+   		#topbar {background-color:white;
+   		width:100%;
+   		height:115px;
+   		font-family:verdana;
+   		border-bottom:1px black solid}
+   		
+   		.fixedwidth{width:1000px;
+   		margin:0 auto;
+   		padding-top:15px
+   		}
+   		
+   		.fixedwidth img {width:700px;
+   		height:80px
+   		
+   		}
+   		
+   		#titlediv{padding-top:5px;
+   		float:left;
+   		}
+   		
+   		#titlediv, img {width:90px; height:30px;
+   		opacity:1}
+   		
+   		
+   		
+   		#nav {font-size:0.8em; color:#37383A; padding-left:400px;
+   		padding-top:20px; font-family:georgia}
+   		
+   		.listclass {float:right;
+   		}
+   		
+   		.listclass li {display:inline;
+   		margin-left:25px; margin-right:25px
+   		
+   		}
+   		
+   		.listclass li:hover {opacity:0.3
+   		
+   		}
+   		
+   		.content {margin-left:75px;
+   		margin-right:75px;
+   		margin-bottom:75px;
+   		background-color:#F5F5F3;
+   		height:930px
+   		
+   		}
+   		
+   		table {position:static;
+   		left:300px;
+   		top:300px
+   		}
+   		
+   		table tr td {background-color:white;
+   		width:190px; height:175px;
+   		}
+   		
+  
+   		
+   		#footerimage {background-color:white;
+   		width:350px; height:125px;
+   		position:relative;
+   		bottom:40px;
+   		margin:auto;
+   		}
+   		
+   		#footerimage img {width:150px;
+   		height: 125px;
+   		padding-left:100px
+   		}
+   		
+   		#footer p{float:right;
+   		font-family:georgia;
+   		color:#37383A;
+   		margin-right:25px;
+   		margin-bottom:25px;
+   		font-size:12px
+   		}
+   		
+   		#contentimg {background-color:blue;
+   		margin-left:13px; margin-right:10px;
+   		position:relative; top:0px;
+   		height:155px;
+   		width:175px
+   		}
+   		
+   		#contentimg:hover {
+   		opacity:0.3
+   		}
+   		
+   		#contentimg img{
+   		position:relative;
+   		margin-left:0; 
+   		margin-right:0;
+   		height:155px;
+   		width:175px;
+   		}
+ 
+   		
+   		  		
+   		
+   		
+   	
+   		
+   	</style>
+</head>
+
+<body>
+
+	<div id="container">
+	
+		<div id="topbar">
+			<div class="fixedwidth">
+				<div id="titlediv">
+				<a href="http://www.leenotes.info"><img src="images/headerimage.jpg"/></a>
+				</div>
+			
+				<div id="nav">
+					<ul class="listclass">
+						<li>Home</li>
+						<li>Gallery</li>
+						<li>Other Websites</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	
+		<div class="content">
+			<table class="fixedwidth">
+				<tr>
+					<td><div id="contentimg"><img src="contentimages/maincontent/Bahamas Deep Sea Fishing Sailing-Edit-01.jpg"/></div></td>
+					<td><div id="contentimg"><img src="contentimages/maincontent/erica1.png"/></div></td>
+					<td><div id="contentimg"><img src="contentimages/maincontent/Bahamas Highborne s Cay Part 2-Highborne s Cay 2-0024.jpg"/></div></td>
+					<td><div id="contentimg"><img src="contentimages/maincontent/10507140_1481063755467124_8128028323583707261_o.jpg"/></div></td>
+					<td><div id="contentimg"><img src="contentimages/maincontent/Bahamas Allen s Cay-Allen s Cay-0033.jpg"/></div></td>
+				</tr>
+				<tr>
+					<td><div id="contentimg"><img src="contentimages/maincontent/Bahamas Highborne s Cay Part 2-Highborne s Cay 2-0021.jpg"/></div></td>
+					<td><div id="contentimg"><img src="contentimages/maincontent/Bahamas Norman s Cay-Norman s Cay-0074-edit 3.51.06 PM.jpg"/></div></td>
+					<td><div id="contentimg"><img src="contentimages/maincontent/Bahamas Shroud Cay-Shroud Cay-0008.jpg"/></div></td>
+					<td><div id="contentimg"><img src="contentimages/maincontent/Bahamas Shroud Cay-Shroud Cay-0009.jpg"/></div></td>
+					<td><div id="contentimg"><img src="contentimages/maincontent/Bahamas Shroud Cay-Shroud Cay-0026.jpg"/></div></td>
+				</tr>
+				<tr>
+					<td><div id="contentimg"><img src="contentimages/maincontent/FullSizeRender 2.jpg"/></div></td>
+					<td><div id="contentimg"><img src="contentimages/maincontent/horseedit 2.jpg"/></div></td>
+					<td><div id="contentimg"><img src="contentimages/maincontent/IMG_4931.JPG"/></div></td>
+					<td><div id="contentimg"><img src="contentimages/maincontent/IMG_5926.JPG"/></div></td>
+					<td><div id="contentimg"><img src="contentimages/maincontent/kittyedit2.jpg"/></div></td>
+				</tr>
+				<tr>
+					<td><div id="contentimg"><img src="contentimages/maincontent/unnamed-4.jpg"/></div></td>
+					<td><div id="contentimg"><img src="contentimages/maincontent/Nick Erica Wedding-Formals-0020.jpg"/></div></td>
+					<td><div id="contentimg"><img src="contentimages/maincontent/Nick Erica Wedding-Formals-0066.jpg"/></div></td>
+					<td><div id="contentimg"><img src="contentimages/maincontent/unnamed-5.jpg"/></div></td>
+					<td><div id="contentimg"><img src="contentimages/maincontent/unnamed-6.jpg"/></div></td>
+				</tr>
+				<tr>
+					<td><div id="contentimg"><img src="contentimages/maincontent/11194387_10153253276566505_5123131183719987559_o.jpg"/></div></td>
+					<td><div id="contentimg"><img src="contentimages/maincontent/IMAG0311.jpg"/></div></td>
+					<td><div id="contentimg"><img src="contentimages/maincontent/10830827_10153253259496505_6150397744226551007_o.jpg"/></div></td>
+					<td><div id="contentimg"><img src="contentimages/maincontent/IMG_5142.JPG"/></div></td>
+					<td><div id="contentimg"><img src="contentimages/maincontent/IMAG0337.jpg"/></div></td>
+				</tr>
+			
+			</table>
+		</div>
+		<div id="footer">
+			<div id="footerimage">
+				<img src="images/leenotesfooterimage.png"/>
+			</div>
+			<p>Website Created by Erica Lee</p>
+		</div>
+	
+	</div>
+
+</body>
+</html>
